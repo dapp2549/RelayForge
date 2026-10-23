@@ -22,4 +22,4 @@ If you post a report on GitHub or send it by email, the information is shared th
 
 ## Questions about your data
 
-Email [dappnutchanon@gmail.com](mailto:dappnutchanon@gmail.com) for private questions about data handling. Use [GitHub Issues](https://github.com/dappnutchanon/RelayForge/issues) for questions that can be discussed publicly.
+Email [dappnutchanon@gmail.com](mailto:dappnutchanon@gmail.com) for private questions about data handling. Use [GitHub Issues](https://github.com/dapp2549/RelayForge/issues) for questions that can be discussed publicly.

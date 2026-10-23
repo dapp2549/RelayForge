@@ -1,6 +1,6 @@
 # Support
 
-Use [GitHub Issues](https://github.com/dappnutchanon/RelayForge/issues) to report a bug, request a feature, or ask a question. Search existing issues first so related reports stay together.
+Use [GitHub Issues](https://github.com/dapp2549/RelayForge/issues) to report a bug, request a feature, or ask a question. Search existing issues first so related reports stay together.
 
 For a report that contains private information, email [dappnutchanon@gmail.com](mailto:dappnutchanon@gmail.com). Send suspected vulnerabilities by email as described in [Security reporting](SECURITY.md).
 

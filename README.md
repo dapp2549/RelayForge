@@ -6,9 +6,9 @@ Use RelayForge to manage Tasks, inspect file changes, run commands, and connect 
 
 ## Release status
 
-RelayForge is in development. There is no public installer release yet. Public installers and release notes will be listed on the [Releases page](https://github.com/dappnutchanon/RelayForge/releases).
+RelayForge is in development. There is no public installer release yet. Public installers and release notes will be listed on the [Releases page](https://github.com/dapp2549/RelayForge/releases).
 
-RelayForge Desktop currently targets Windows x64. This repository contains public documentation and distribution information. The application source is maintained separately.
+RelayForge Desktop currently targets Windows x64. **This repository is for public distribution and documentation only, not the private source code.** Until the first verified release is published, do not download installers from unofficial links. Download only from the [Releases page](https://github.com/dapp2549/RelayForge/releases) after publication.
 
 ## What you can do
 
@@ -30,9 +30,10 @@ Start with **Normal Access**. It applies confirmation prompts to actions covered
 
 - [Connect MCP servers](docs/mcp-connections.md)
 - [Data and privacy](docs/data-and-privacy.md)
+- [Install and verify a release](docs/release-verification.md)
 - [Get help or report a bug](SUPPORT.md)
 - [Report a security issue](SECURITY.md)
 
 ## Contact
 
-Use [GitHub Issues](https://github.com/dappnutchanon/RelayForge/issues) for bugs, feature requests, and questions. For private reports, email [dappnutchanon@gmail.com](mailto:dappnutchanon@gmail.com).
+Use [GitHub Issues](https://github.com/dapp2549/RelayForge/issues) for bugs, feature requests, and questions. For private reports, email [dappnutchanon@gmail.com](mailto:dappnutchanon@gmail.com).

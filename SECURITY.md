@@ -4,7 +4,7 @@ Email suspected vulnerabilities to [dappnutchanon@gmail.com](mailto:dappnutchano
 
 Include the affected version or build, steps to reproduce, and the impact you observed. A small example using disposable files or test credentials is preferable to a copy of a real project. Remove live tokens, passwords, personal information, and unrelated file contents.
 
-For general bugs and feature requests, use [GitHub Issues](https://github.com/dappnutchanon/RelayForge/issues).
+For general bugs and feature requests, use [GitHub Issues](https://github.com/dapp2549/RelayForge/issues).
 
 ## Access boundaries
 
