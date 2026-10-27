@@ -1,6 +1,6 @@
 # Install and verify RelayForge
 
-RelayForge for Windows x64 is distributed from the [official Releases page](https://github.com/dapp2549/RelayForge/releases). **There is no public installer until the maintainer publishes the first release.** Do not download an installer from an issue attachment, third-party mirror, or a source-development CI artifact.
+RelayForge for Windows x64 is distributed from the [official Releases page](https://github.com/dapp2549/RelayForge/releases). Do not download an installer from an issue attachment, third-party mirror, or a source-development CI artifact.
 
 ## Install
 

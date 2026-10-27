@@ -6,9 +6,9 @@ Use RelayForge to manage Tasks, inspect file changes, run commands, and connect 
 
 ## Release status
 
-RelayForge is in development. There is no public installer release yet. Public installers and release notes will be listed on the [Releases page](https://github.com/dapp2549/RelayForge/releases).
+RelayForge is in development. Download the latest Windows x64 installer and read its release notes on the [Releases page](https://github.com/dapp2549/RelayForge/releases).
 
-RelayForge Desktop currently targets Windows x64. **This repository is for public distribution and documentation only, not the private source code.** Until the first verified release is published, do not download installers from unofficial links. Download only from the [Releases page](https://github.com/dapp2549/RelayForge/releases) after publication.
+This repository contains installers and user documentation. The application source is maintained separately in a private repository. Download installers from the official Releases page.
 
 ## What you can do
 
